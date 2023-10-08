@@ -1,0 +1,7 @@
+.vs
+.vscode
+bin
+include
+src
+*.bat
+*.obj
